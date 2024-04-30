@@ -1,0 +1,11 @@
+.banner {
+    width: 28em;
+}
+
+.card-img-top {
+    width: 27em;
+    height: 50em;
+    object-fit: cover;
+}
+
+
